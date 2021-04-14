@@ -67,6 +67,7 @@ header{
     
       .subnav:hover .subnav-content {
         display: block;
+        color: white;
       }
       footer {
         position: fixed;
@@ -76,4 +77,14 @@ header{
         color:white;
         text-align: center;
       
+     }
+     .formular{
+      background-image: url("hanging-palm-leaves-pink.jpg")
+    }
+    label{
+      font-size: 20px;
+     color: rgb(77, 3, 77);
+     }
+     .afisare{
+       font-size: 30px;
      }
